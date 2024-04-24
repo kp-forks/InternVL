@@ -20,9 +20,9 @@
 <img width="900" alt="image" src="https://github.com/OpenGVLab/InternVL/assets/23737120/519f3edb-951a-4ddb-9ace-31add081faad">
 
 <br>
-<br>
+<be>
 
-<img width="1229" alt="image" src="https://github.com/OpenGVLab/InternVL/assets/23737120/dd43bb52-2fb2-4532-b9b9-c33761437ca9">
+<img width="1229" alt="image" src="https://github.com/OpenGVLab/InternVL/assets/23737120/4a1822dc-97a1-4b4e-8d82-9e06798eed79">
 
 ## What is InternVL?
 
